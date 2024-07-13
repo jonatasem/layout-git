@@ -1,4 +1,4 @@
-<img src="./assets/M74W.gif" width="50" alt="imagem de carregamento">
+<img src="./assets/M74W.gif" width="100" alt="imagem de carregamento">
 <p>Apaixonado por tecnologia, café e um bom livro.</p>
 
 <h1>Sobre Mim</h1>
@@ -11,12 +11,15 @@
 
 <h1>Tecnologias</h1>
 
-<img src="./assets/react.png" alt="imagem do react">
+<div display="flex">
+    <img width="100" src="./assets/react.png" alt="imagem do react">
+    <img width="100" src="./assets/react.png" alt="imagem do react">
+</div>
 
 
 <img src="" alt="imagem do ">
 <img src="" alt="imagem do ">
 <img src="" alt="imagem do ">
 
-<img src="./assets/pato.webp" width="50" alt="imagem do pato">
+<img src="./assets/pato.webp" width="100" alt="imagem do pato">
 
