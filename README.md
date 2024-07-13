@@ -22,5 +22,7 @@
     <img width="80" src="./assets/nodejs.png" alt="imagem do nodejs">
 </div>
 
-<img src="./assets/pato.webp" width="100" alt="imagem do pato">
+<p>Obrigado por visitar!!</p>
+
+<img float="right" src="./assets/pato.webp" width="100" alt="imagem do pato">
 
