@@ -1,4 +1,4 @@
-<img src="./assets/M74W.gif" alt="imagem de carregamento">
+<img style="max-width:100px;" src="./assets/M74W.gif" alt="imagem de carregamento">
 <p>Apaixonado por tecnologia, café e um bom livro.</p>
 
 <h1>Sobre Mim</h1>
