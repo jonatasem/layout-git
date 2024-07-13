@@ -1,7 +1,7 @@
 <img src="./assets/home.gif" alt="">
 <p>Apaixonado por tecnologia, café e um bom livro.</p>
 
-<h1 style="border-bottom: 1px solid silver;">Sobre Mim</h1>
+<h1 style="border-bottom: 1px solid black;">Sobre Mim</h1>
 
 <p>- Tenho 23 anos e estou no segundo ano do curso de Engenharia da Computação.</p>
 
