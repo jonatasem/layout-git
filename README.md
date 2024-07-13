@@ -1,4 +1,4 @@
-<img style="max-width:100px;" src="./assets/M74W.gif" alt="imagem de carregamento">
+<img src="./assets/M74W.gif" width="50" alt="imagem de carregamento">
 <p>Apaixonado por tecnologia, café e um bom livro.</p>
 
 <h1>Sobre Mim</h1>
@@ -11,7 +11,7 @@
 
 <h1>Tecnologias</h1>
 
+
+<img src="./assets/pato.webp" alt="imagem do pato">
 <img src="./assets/html-5.png" alt="imagem do html">
 
-<img src="" alt="">
-<img src="" alt="">
