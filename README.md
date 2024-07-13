@@ -26,5 +26,5 @@
 
 <img text-align="right" src="./assets/pato.webp" width="100" alt="imagem do pato">
 
-<a href="">Portfólio</a>
+<a href="https://jonatasem.github.io/portfolio-2024">Portfólio</a>
 
