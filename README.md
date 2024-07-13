@@ -1,4 +1,7 @@
-<img src="./assets/M74W.gif" width="100" alt="imagem de carregamento">
+<div diplay="flex" justify-content="space-around">
+    <img src="./assets/M74W.gif" width="100" alt="imagem de carregamento">
+    <img src="./assets/M74W.gif" width="100" alt="imagem de carregamento">
+</div>
 <p>Apaixonado por tecnologia, café e um bom livro.</p>
 
 <h1>Sobre Mim</h1>
