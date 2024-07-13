@@ -11,7 +11,12 @@
 
 <h1>Tecnologias</h1>
 
+<img src="./assets/react.png" alt="imagem do react">
 
-<img src="./assets/pato.webp" alt="imagem do pato">
-<img src="./assets/html-5.png" alt="imagem do html">
+
+<img src="" alt="imagem do ">
+<img src="" alt="imagem do ">
+<img src="" alt="imagem do ">
+
+<img src="./assets/pato.webp" width="50" alt="imagem do pato">
 
