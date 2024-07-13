@@ -24,4 +24,5 @@
 
 <p>Obrigado por visitar!!</p>
 
+<img text-align="right" src="./assets/pato.webp" width="100" alt="imagem do pato">
 
