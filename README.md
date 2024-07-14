@@ -4,10 +4,14 @@
 <h1>Sobre Mim</h1>
 
 <p>- Tenho 23 anos e estou no segundo ano do curso de Engenharia da Computação.</p>
-<p>- Apaixonado por violão, </p>
+<p>- Apaixonado por violão, e violino.</p>
 <p>- Sou um desenvolvedor front-end, aprimorando meus conhecimentos e buscando adiquirir novos para me tornar full-stack.</p>
 <p>- Tenho experiência em HTML, CSS e JavaScript, que são as bases do meu trabalho criativo e interativo, e estou em contante evolução com React.</p>
 <p>- Possuo conhecimento em PhotoShop e Figma</p>
+
+<p>Estou ansioso para os próximos projetos e que venham muitos desafios pela frente!🚀</p>
+
+<p>Tem algum projeto em mente? Bora trabalhar juntos!✨</p>
 
 <h1>Tecnologias</h1>
 
